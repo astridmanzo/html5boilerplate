@@ -10,7 +10,7 @@ Compile using compass.
 *singularitygs for grids.
 *sass-globbing to compile folders and subfolders
 
-<h2>humas.txt</h2>
+<h2>humans.txt</h2>
 Information about people involved in the project.
 
 <h2>robots.txt</h2>
